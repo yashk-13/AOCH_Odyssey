@@ -1,6 +1,6 @@
 // setting up firebase with our website
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyAQu5eM_UEbr8mA3VV9EwufFfeDPlOqNQY",
+    apiKey: "########################",
   authDomain: "Pawsperity-login.firebaseapp.com",
   projectId: "Pawsperity-login",
   storageBucket: "Pawsperity-login.appspot.com",
